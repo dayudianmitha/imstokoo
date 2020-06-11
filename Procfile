@@ -1,1 +1,1 @@
-worker: python 3.7 tokoo.py
+worker: python tokoo.py
